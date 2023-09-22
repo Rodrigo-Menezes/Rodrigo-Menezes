@@ -1,4 +1,4 @@
-### Olá, eu sou o Rodrigo Menezes, desenvolvedor Front-end React.js e Next.js 👋
+### Olá, eu sou o Rodrigo Menezes 👋
 
 ![Rodrigo-Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-menezes&show_icons=true&theme=dracula&count_private=true)
 
